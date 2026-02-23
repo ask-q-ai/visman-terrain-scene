@@ -1,0 +1,15 @@
+{
+  "id": "terrain-scene",
+  "name": "Terrain Scene",
+  "description": "Exported from embedded Flutter VisMan demo scene \"terrain-scene\".",
+  "tags": [
+    "scene",
+    "terrain"
+  ],
+  "source": "flutter-embedded-demo",
+  "generatedAt": "2026-02-23T08:11:45.557246Z",
+  "sceneFile": "visman.json",
+  "objectCount": 2,
+  "hasPhysics": false,
+  "has3D": true
+}
